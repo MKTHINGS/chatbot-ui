@@ -735,8 +735,8 @@ const Home: React.FC<HomeProps> = ({
   return (
     <>
       <Head>
-        <title>Chatbot UI</title>
-        <meta name="description" content="ChatGPT but better." />
+        <title>Multi Virtual Assistant</title>
+        <meta name="description" content="ChatGPT engine but better website." />
         <meta
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
